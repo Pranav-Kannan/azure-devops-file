@@ -62,39 +62,39 @@
   <servers>
     <server>
     	<id>nexus-snapshots</id>
-    	<username>***</username>
-    	<password>***</password>
+    	<username>"YOUR_USERNAME"</username>
+    	<password>"YOUR-PASSWORD</password>
   	</server>
     <server>
     	<id>archetype</id>
-    	<username>***</username>
-    	<password>***</password>
+    	<username>"YOUR_USERNAME"</username>
+    	<password>"YOUR-PASSWORD</password>
     </server>
     <server>
 		<id>MuleNexusRepository</id>
 		<!-- Provided by Support -->
-		<username>****</username>
-		<password>****</password>
+		<username>"YOUR_USERNAME"</username>
+    	<password>"YOUR-PASSWORD</password>
 	</server>
 	<server>
 		<id>MuleRepository</id>
-		<username>****</username>
-		<password>****</password>
+		<username>"YOUR_USERNAME"</username>
+    	<password>"YOUR-PASSWORD</password>
 	</server>
 	<server>
 		<id>anypoint-exchange</id>
-		<username>****</username>
-		<password>****</password>
+		<username>"YOUR_USERNAME"</username>
+    	<password>"YOUR-PASSWORD</password>
 	</server>
-<server>
+         <server>
 		<id>cloudhub</id>
-		<username>****</username>
-		<password>****</password>
+		<username>"YOUR_USERNAME"</username>
+    	        <password>"YOUR-PASSWORD</password>
 	</server>
 	<server>
         <id>anypoint-exchange-v2</id>
-        <username>****</username>
-        <password>****</password>
+        <username>"YOUR_USERNAME"</username>
+    	<password>"YOUR-PASSWORD</password>
     <!-- server
      | Specifies the authentication information to use when connecting to a particular server, identified by
      | a unique name within the system (referred to by the 'id' attribute below).
